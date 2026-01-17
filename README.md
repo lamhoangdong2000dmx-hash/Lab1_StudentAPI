@@ -13,6 +13,8 @@
 ---
 
 ## ▶️ Video demo đầy đủ
+👉 Vdeo Youtube:
+🔗 **https://youtu.be/kuiECRuAhJs?si=YlFfxICbnUev8sYV**
 
 👉 Vdeo demo tại đây:  
 🔗 **https://github.com/lamhoangdong2000dmx-hash/Lab1_StudentAPI/releases/tag/v1**
